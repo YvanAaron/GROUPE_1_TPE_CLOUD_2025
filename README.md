@@ -13,7 +13,3 @@ chaque personne a donné une logique différente et nous avons choisi de prendre
 
 5. Sonfack Tsafack Marius (22B173FS) : Vérification en utilisant une pile pour stocker la première moitié des chiffres et comparer avec la seconde (est_palindrome_v5).
 
-
-
-Chacun de vous peut implémenter et tester l’approche qui lui est assignée pour voir comment elle fonctionne dans un programme Python complet.
-
